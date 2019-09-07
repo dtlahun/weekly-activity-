@@ -1,4 +1,4 @@
 # weekly-activity-
-study
-work
-do assignment
+-study
+-work
+-do assignment
